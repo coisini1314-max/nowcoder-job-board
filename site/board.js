@@ -164,8 +164,10 @@ function render() {
   const city = $("city").value;
   const status = $("status").value;
   const sort = $("sort").value;
+  const minimum = $("minimum").valueAsNumber;
   const show = jobs.filter(job => (!query || fold(job.company + job.title).includes(query))
     && (!city || job.cities.includes(city)) && (!status || status === job.status)
+    && (!Number.isFinite(minimum) || job.score >= minimum)
     && (!$("only").checked || inQueue(job)));
   if (sort === "score") show.sort((a, b) => (b.score ?? 0) - (a.score ?? 0));
   if (sort === "city") show.sort((a, b) => a.cities[0].localeCompare(b.cities[0], "zh-CN"));
@@ -175,7 +177,7 @@ function render() {
   $("sent").textContent = Object.values(statuses).filter(s => s === "已投递").length;
   $("versions").textContent = profile?.versions.length ?? "—";
   $("profile-title").textContent = profile ? "个人匹配已启用" : "启用个人匹配";
-  $("profile-note").textContent = profile ? `${profile.year} 届 · ${profile.degree} · ${storageOK ? "仅存于此浏览器" : "本次页面有效"}` : "导入本机关键词档案，匹配分和投递状态保存在当前浏览器。";
+  $("profile-note").textContent = profile ? `${profile.year} 届 · ${profile.degree} · ${storageOK ? "仅存于此浏览器" : "本次页面有效"}` : "导入本机关键词档案，档案和投递状态保存在当前浏览器。";
   $("forget").hidden = !profile;
   $("count").textContent = `${show.length} / ${jobs.length} 条`;
   $("cards").replaceChildren(...(show.length ? show.map(card) : [element("p", "当前条件下暂无岗位。", "empty")]));
@@ -204,7 +206,7 @@ async function init() {
   $("updated").textContent = "最后更新时间 · " + dateLabel(snapshot.updatedAt) + "（北京时间）";
   const cities = new Set(snapshot.jobs.flatMap(job => job.cities));
   for (const city of [...cities].sort((a, b) => a.localeCompare(b, "zh-CN"))) addOption($("city"), city);
-  for (const id of ["search", "city", "status", "sort", "only"]) $(id).addEventListener("input", render);
+  for (const id of ["search", "city", "status", "sort", "only", "minimum"]) $(id).addEventListener("input", render);
   $("profile-file").addEventListener("change", async event => {
     const file = event.target.files[0];
     if (!file) return;

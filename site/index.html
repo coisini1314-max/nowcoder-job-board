@@ -25,7 +25,7 @@
     <div><span>简历版本 · 本机</span><strong id="versions">—</strong></div>
   </section>
   <section class="private" aria-label="本机简历档案">
-    <div><strong id="profile-title">启用个人匹配</strong><p id="profile-note">导入本机关键词档案，匹配分和投递状态保存在当前浏览器。</p></div>
+    <div><strong id="profile-title">启用个人匹配</strong><p id="profile-note">导入本机关键词档案，档案和投递状态保存在当前浏览器。</p></div>
     <div class="actions"><label class="button secondary" for="profile-file">导入关键词档案</label><input id="profile-file" type="file" accept=".json,application/json" hidden><button id="forget" class="quiet" hidden>清除档案</button></div>
   </section>
   <p id="notice" role="status" hidden></p>
@@ -34,6 +34,7 @@
     <div class="filters">
       <label>企业或岗位<input id="search" type="search" placeholder="搜索企业、岗位"></label>
       <label>地点<select id="city"><option value="">全部地点</option></select></label>
+      <label>最低匹配分<input id="minimum" type="number" min="0" max="100" step="1" placeholder="不限"></label>
       <label>投递状态<select id="status"><option value="">全部状态</option><option>未投递</option><option>已投递</option><option>跳过</option><option>失败</option></select></label>
       <label>排序<select id="sort"><option value="score">匹配分从高到低</option><option value="city">按地点</option><option value="company">按企业</option><option value="source">牛客列表顺序</option></select></label>
       <label class="check"><input id="only" type="checkbox"> 只看待投清单</label>
