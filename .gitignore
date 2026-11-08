@@ -1,0 +1,7 @@
+private/
+*.pdf
+*.docx
+*.zip
+.env*
+__pycache__/
+.DS_Store
