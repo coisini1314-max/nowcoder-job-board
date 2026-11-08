@@ -7,11 +7,6 @@ from pathlib import Path
 import pdfplumber
 
 ROOT = Path(__file__).resolve().parents[1]
-DIRECTIONS = {
-    "1": "电商运营", "11": "电商运营", "111": "电商运营",
-    "2": "销售与拓客", "3": "市场营销", "33": "市场营销",
-    "4": "广告投放", "5": "海外运营", "55": "海外运营", "555": "海外运营",
-}
 
 
 def fold(value):
@@ -23,7 +18,15 @@ def main():
     parser.add_argument("directory", type=Path)
     parser.add_argument("--pattern", default="*_[0-9]*.pdf")
     parser.add_argument("--output", type=Path, default=ROOT / "private" / "profile.json")
+    parser.add_argument("--year", required=True, type=int)
+    parser.add_argument("--degree", required=True, choices=["大专", "本科", "硕士", "博士"])
+    parser.add_argument("--focus", action="append", default=[], metavar="VERSION=KEYWORD")
+    parser.add_argument("--preferred", default="", help="按顺序列出优先版本，用逗号分隔")
     args = parser.parse_args()
+    try:
+        directions = dict(item.split("=", 1) for item in args.focus)
+    except ValueError:
+        parser.error("--focus 需要 VERSION=KEYWORD 格式")
     terms = json.loads((ROOT / "site" / "keywords.json").read_text())
     versions = []
     for path in sorted(args.directory.glob(args.pattern)):
@@ -42,14 +45,15 @@ def main():
         tags = [tag for tag, aliases in terms.items()
                 if any(fold(alias) in folded for alias in aliases)]
         versions.append({
-            "id": version, "file": path.name, "focus": DIRECTIONS.get(version, ""), "tags": tags,
+            "id": version, "file": path.name, "focus": directions.get(version, ""), "tags": tags,
         })
     if not versions:
         raise ValueError("没有找到可读的编号简历")
     args.output.parent.mkdir(parents=True, exist_ok=True, mode=0o700)
     with args.output.open("w", encoding="utf-8") as handle:
         args.output.chmod(0o600)
-        json.dump({"year": 2027, "degree": "硕士", "preferred": ["1", "2", "3", "4", "5"],
+        json.dump({"year": args.year, "degree": args.degree,
+                   "preferred": [v.strip() for v in args.preferred.split(",") if v.strip()],
                    "versions": versions}, handle, ensure_ascii=False, indent=2)
     print(f"已生成 {len(versions)} 个版本的本地关键词档案")
 
