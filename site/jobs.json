@@ -7,7 +7,7 @@
     "销售管培生",
     "广告投放"
   ],
-  "updatedAt": "2026-11-24T10:02:46+00:00",
+  "updatedAt": "2026-11-27T08:46:52+00:00",
   "jobs": [
     {
       "id": "nowcoder:460607",
@@ -58,68 +58,20 @@
       "url": "https://www.nowcoder.com/jobs/detail/457658"
     },
     {
-      "id": "nowcoder:371311",
-      "company": "牧原股份",
-      "title": "管培生（人资、财务、营销等）",
-      "cities": [
-        "郑州"
-      ],
-      "duties": "管培生是基于公司发展战略而量身定制的人才培养项目，旨在培养具有远见卓识、雄心企图、卓越领导力的少年大将军，通过个性化的轮岗历练和系统化的学习，能力得到全方位的发掘和提升，成为企业发展的中坚力量，和企业共同实现“让人们吃上放心猪肉，享受丰盛人生”的美好愿景。（营销、人资、法务、财务、金融、供应链、品牌、审计、环保、能源、农学、工程等）。",
-      "requirements": "1、学历背景:本科及以上学历，专业不限，管理类、财经类、工科类相关专业优先；\n2、有志于在农牧行业深耕，具有强烈的责任心和事业心，对生活充满正能量、对工作充满激情；\n3、认同牧原的商业价值、企业文化与事业梦想，并愿意为其长期努力；\n4、具有较强的逻辑思维能力和解决问题的能力，乐于接受挑战和承担责任。",
-      "graduation": "2025届",
-      "degree": "本科",
-      "deadline": "2027-01-26T08:42:20+00:00",
-      "listed": true,
-      "direct": true,
-      "url": "https://www.nowcoder.com/jobs/detail/371311"
-    },
-    {
-      "id": "nowcoder:457660",
-      "company": "Garena",
-      "title": "【2027届秋招】User Acquisition广告投放（Free Fire）",
-      "cities": [
-        "上海"
-      ],
-      "duties": "Game Introduction\nFree Fire has remained one of the world’s most downloaded mobile games since 2019 and continues to be loved by players across global markets. Join us to help bring the joy of Free Fire to more players around the world through effective digital advertising and engaging creative campaigns.\n\nJob Description\n1. Support global digital advertising campaigns for Free Fire and contribute to user growth across overseas markets.\n2. Assist in launching, monitoring, and optimizing ad campaigns on major platforms such as Google, TikTok, and Meta/Facebook.\n3. Analyze campaign performance, summarize key insights, communicate findings with relevant teams, and help drive follow-up optimization plans.\n4. Participate in the planning, execution, and review of key creative assets to ensure official content accurately reflects the game quality, brand tone, and campaign message.\n5. Work cross-functionally with regional marketing, creative, operations, and other teams to support overall media buying strategies.\n6. Support daily communication and meetings with international colleagues to improve global execution efficiency.",
-      "requirements": "Required Qualifications\n\n1. Bachelor’s degree or above in Marketing, Business, Advertising, Data Analytics, Communications, or related fields,relevant internship or project experience are plus.\n2. Strong analytical thinking, problem-solving ability, and attention to detail, with the ability to translate data insights into actionable recommendations.\n3. Excellent communication and collaboration skills with proficiency in English.\n4. Strong self-motivation and ownership mindset, with the ability to proactively identify opportunities, drive project progress.\n5. Passion for games,strong interest in FPS is a big plus.\n6. Hands-on experience applying generative AI tools or other AI-powered productivity tools in real work scenarios is preferred",
-      "graduation": "2027届",
-      "degree": "本科",
-      "deadline": "2026-12-30T16:00:00+00:00",
-      "listed": true,
-      "direct": true,
-      "url": "https://www.nowcoder.com/jobs/detail/457660"
-    },
-    {
-      "id": "nowcoder:457790",
-      "company": "拼多多集团-PDD",
-      "title": "27校招-市场管培生-广告投放",
-      "cities": [
-        "上海"
-      ],
-      "duties": "1、负责App在主流媒体平台的广告投放策略制定工作，对广告投放的规模以及ROI负责； \n2、参与设计广告量化研究和自动化交易系统，探索投放策略的最佳实现方案； \n3、通过数据分析发现投放策略中存在的问题和亏损点，提升广告投放效果； \n4、管理项目进度，根据目标合理分配项目资源，积极主动推动拉齐项目各方进度和预期； \n5、关注市场信息，定期分析行业数据； \n6、与各媒体渠道进行对接合作，探索广告行业先进玩法。",
-      "requirements": "1、2027届应届本科及以上学历，数学、统计学、市场营销、新闻广告、影视传媒、数字媒体等相关专业优先； \n2、较强的数据及业务分析能力，逻辑思维能力强，善于通过数据分析挖掘问题，迭代运营动作；\n3、做事脚踏实地，上进且勤奋，靠谱的行动派，充满正能量； \n4、具有团队精神，良好的跨部门沟通协调能力，自我驱动力强，喜欢有挑战的工作； \n5、成熟地面对压力和挫折，能适应快节奏、多变化、高速成长的互联网行业。",
-      "graduation": "2027届",
-      "degree": "本科",
-      "deadline": "2027-07-31T15:59:59+00:00",
-      "listed": true,
-      "direct": true,
-      "url": "https://www.nowcoder.com/jobs/detail/457790"
-    },
-    {
-      "id": "nowcoder:463188",
-      "company": "满帮集团",
-      "title": "海外用户运营（英语）",
+      "id": "nowcoder:284565",
+      "company": "健合",
+      "title": "BNC销售培训生",
       "cities": [
         "南京"
       ],
-      "duties": "1、协助日常运营数据的取数,跟踪注册、激活、首单转化、留存、复购、单量等核心指标。\n2、参与首单转化漏斗的逐环节监控,识别异常波动并定位可能原因,为策略调整提供数据依据。\n3、执行用户分层触达、召回及激活动作,包括触达内容准备、名单圈定、执行落地与效果回收。\n4、协助补贴与活动的落地执行,包括规则配置、过程监控、数据回收及效果复盘,并协助识别异常投放与套利行为。\n5、参与市场与竞品信息的持续收集,包括竞品活动、产品更新及用户口碑,形成结构化记录。\n6、定期调研用户,记录实际用户场景,为业务判断提供一线输入。",
-      "requirements": "1、具备扎实的数据基础能力,熟练使用 Excel ,了解 SQL 或有学习意愿并能在入职三个月内独立取数。\n2、逻辑清晰、对数字敏感,能从数据波动中提出合理假设,而非仅完成报表。\n3、主动性强,愿意深入一线现场,不排斥高频、琐碎且反复的执行工作。\n4、英语、葡萄牙语、西班牙语等熟悉一门外语，可进行书面沟通交流。\n5、有互联网平台、物流、出行或本地生活行业的实习经历者优先;有数据分析或增长运营相关实习经历者优先。",
-      "graduation": "毕业不限",
+      "duties": "BNC销售培训生项目是为有志于在婴幼儿营养领域成为销售骨干和管理者的优秀应届毕业生所设立，通过销售专业能力和领导力的提升，实现高速职业发展。毕业生将在半年的时间内通过跨渠道、跨地域的轮岗，接受富有挑战性的一线岗位安排，并在定岗后1年内通过管理重要客户、独立策划并执行全国性项目而获得快速成长，为未来成长为销售团队的核心管理人才做好准备。\n\n1、基于对市场的洞察和分析，根据任务计划，开发和巩固市场，落地执行各品牌的消费者教育活动，完成各项任务指标；\n2、持续跟进和优化营销环节的过程，包括：产品上架谈判与执行追踪，库存周期监控、销量统计分析和陈列检查等等；\n3、负责促销团队的管理，定期开展对经销商、门店、促销员等相关人员营销政策、产品知识的传达和培训；\n4、工作地点：可以接受区域内（相近省份或城市）的调动和分配。",
+      "requirements": "1、具有本科或以上学历的2024应届毕业生（港澳台及海外留学生毕业时间放宽至：2023年9月-2024年7月）；\n2、院校不限、专业不限，喜欢营销类型的工作；\n3、求知欲强，具备学习敏锐度，积极看待新事物，具备良好的分析和判断能力；\n4、自我驱动，正向抗压，行动力强；\n5、喜欢挑战，有韧性，接受跨城市/跨区域的调动挑战。",
+      "graduation": "2024届",
       "degree": "本科",
-      "deadline": "2026-12-30T16:00:00+00:00",
+      "deadline": "2123-10-15T16:00:00+00:00",
       "listed": true,
       "direct": true,
-      "url": "https://www.nowcoder.com/jobs/detail/463188"
+      "url": "https://www.nowcoder.com/jobs/detail/284565"
     },
     {
       "id": "nowcoder:464798",
@@ -138,20 +90,68 @@
       "url": "https://www.nowcoder.com/jobs/detail/464798"
     },
     {
-      "id": "nowcoder:298750",
+      "id": "nowcoder:457786",
       "company": "拼多多集团-PDD",
-      "title": "仓储管理培训生管培生（广东省）",
+      "title": "27校招-商家运营（多语种优势-上海）",
       "cities": [
         "上海"
       ],
-      "duties": "1、深入落地一线：从仓储基层一线轮岗起步，逐步深入参与仓储业务各项具体工作，通过实际项目推进来锻炼、提升专业能力和个人经验，从而帮助提升整体仓储运作质量与效率；\n2、仓库日常管理：负责仓库出入库管理、库存管理等，跟进运作时效质量，协调解决运作异常问题，并不断帮助一线员工提升技能； \n3、仓库运营优化：通过运营数据，发现仓库日常运营改善点，并提出解决建议或方案，进行跨部门协调沟通及推动业务执行落地；\n4、项目实施：结合公司业务对仓库功能的拓展性要求，参与相关重点项目实施落地，确保按时、按预算、按质量标准交付项目。",
-      "requirements": "1、2024届毕业生，不限专业； \n2、思维活跃、创造力强，热爱电商物流行业并愿意长期深耕电商物流行业； \n3、具有良好的信息收集和数据统计分析能力；\n4、良好的沟通能力，注重团队协作，吃苦耐劳，内驱力强，坚持高标准交付。",
-      "graduation": "毕业不限",
+      "duties": "1、参与或主导负责品类商家的引入、管理、考核、服务工作，帮助优质商家快速落地和发展，指导商家合规经营，扩大业务规模，持续优化商品品质，提升消费者购物体验；\n2、分析洞察行业趋势、行业资讯，并进行趋势分析，了解消费者喜好，对产品设计、选款提出开发指引，不断优化产品；\n3、根据业务需要，挖掘品类潜力，扩充品类商家，提升商品丰富度；\n4、参与品牌合作方日常对接，包括商品规划、品牌营销、运营策略等。",
+      "requirements": "1、2027届应届本科及以上学历，有商家运营相关实习经验优先；\n2、有数据及业务分析能力，善于通过数据分析挖掘问题定位原因；\n3、有良好的沟通表达能力跟自驱力，学习能力强，有责任感；\n4、有以下任一种语言优势（包括但不限于：日语、韩语、波兰语、荷兰语、西班牙语、葡萄牙语、法语、德语、意大利语、土耳其语、比利时语），听说读写流利，能直接作为工作生活语言。",
+      "graduation": "2027届",
       "degree": "本科",
-      "deadline": "2027-12-31T16:00:00+00:00",
+      "deadline": "2027-07-31T15:59:59+00:00",
       "listed": true,
       "direct": true,
-      "url": "https://www.nowcoder.com/jobs/detail/298750"
+      "url": "https://www.nowcoder.com/jobs/detail/457786"
+    },
+    {
+      "id": "nowcoder:463188",
+      "company": "满帮集团",
+      "title": "海外用户运营（英语）",
+      "cities": [
+        "南京"
+      ],
+      "duties": "1、协助日常运营数据的取数,跟踪注册、激活、首单转化、留存、复购、单量等核心指标。\n2、参与首单转化漏斗的逐环节监控,识别异常波动并定位可能原因,为策略调整提供数据依据。\n3、执行用户分层触达、召回及激活动作,包括触达内容准备、名单圈定、执行落地与效果回收。\n4、协助补贴与活动的落地执行,包括规则配置、过程监控、数据回收及效果复盘,并协助识别异常投放与套利行为。\n5、参与市场与竞品信息的持续收集,包括竞品活动、产品更新及用户口碑,形成结构化记录。\n6、定期调研用户,记录实际用户场景,为业务判断提供一线输入。",
+      "requirements": "1、具备扎实的数据基础能力,熟练使用 Excel ,了解 SQL 或有学习意愿并能在入职三个月内独立取数。\n2、逻辑清晰、对数字敏感,能从数据波动中提出合理假设,而非仅完成报表。\n3、主动性强,愿意深入一线现场,不排斥高频、琐碎且反复的执行工作。\n4、英语、葡萄牙语、西班牙语等熟悉一门外语，可进行书面沟通交流。\n5、有互联网平台、物流、出行或本地生活行业的实习经历者优先;有数据分析或增长运营相关实习经历者优先。",
+      "graduation": "毕业不限",
+      "degree": "本科",
+      "deadline": "2026-12-30T16:00:00+00:00",
+      "listed": true,
+      "direct": true,
+      "url": "https://www.nowcoder.com/jobs/detail/463188"
+    },
+    {
+      "id": "nowcoder:368498",
+      "company": "香港瀚卓Huntjoy",
+      "title": "零售管理培训生(双休-25 26届-不限专业)",
+      "cities": [
+        "北京"
+      ],
+      "duties": "【公司介绍】\n创立于2004年，专注于为中国内陆地区奢侈品等高端零售品牌提供人才招聘咨询服务。总部设立在北京，广州设有分部，服务行业垂直聚焦在高端零售奢侈品赛道。\n我司奢侈品零售基本情况：\nLV经理层级最高level奖项（节节高升奖-仅此一家）\nMichael Kors选定职位独家合作供应商  \nZegna职位独家周期合作供应商\nOTB集团金牌合作供应商\n接预付款订单，客户基础扎实\n快速回款周期，2个月内一次性付款，50%客户一个月内一次性付款；\n\n2023年在奢侈品sales operation垂直岗能全年产出1200万＋。\n具备解决中国区零售总监和大区域总监的业务能力\n新晋顾问第一个自然年业绩超百万\n顾问从业6年正式冲击行业合伙人\n\n【职位信息】\n工作地点：北京朝阳区望京SOHO\n工作时间：上午九点半到下午六点半；双休\n薪酬结构：底薪6.5-8k+提成\n职级晋升:独立顾问（C1-C3);专业线(SC-SLC)或管理线（TL1-TM);公司合伙人（1-3级）\n\n我们的竞争力在哪里？\n1、专注奢侈品垂直赛道，客户囊括顶奢品牌，轻奢品牌，设计师品牌，高端美妆品牌，客户基础中国内陆地区排名前列；顶奢客户全面合作，LV Hermes Dior Gucci，lvmh集团，历峰集团，客户资源雄厚，纯粹深耕奢侈品赛道，客户质量数量高。\n北京office负责人为新加坡南洋理工大学留学+外资500强公司行业总监，深耕行业12年，合作的客户包含了各种顶奢集团及头部企业，客户端口影响力强，拥有多个独家职位的选择权。\n2、完整的培训体系，培训晋升体系打造360度精品顾问，顾问成长完善，成单周期快，提成机制友好。\n3、顾问级别都是可以360度和高净值客户对接，形成对行业的深度理解和岗位需求的最精准把握。\n4、做单方法论优越超前，能够助力顾问快速理解行业，快速成单取得成果。\n5、提点政策友好，阶梯式上涨，在行业内位列前列；合同条款优越，回款周期短稳定持续，持续有预付款项目。\n6、base北京，双休，五险一金，超长14+5天年假，春节1000元补贴，零食咖啡畅享，季度团队聚餐，90后扁平化团队，年中年底两次旅行、每人每年5000元旅游补贴+1万购物补贴。\n超nice的员工激励：米其林奢华双人晚餐/北京宝格丽超豪华星级酒店住宿/飞机往返商务舱的旅行基金奖励",
+      "requirements": "任职要求：\n1、2025-2026年全日制统招本科毕业，不限专业；\n2、具备良好的业务结果把控能力；\n3、热爱与人沟通\n4、有较强的自我驱动能力；",
+      "graduation": "2026届",
+      "degree": "本科",
+      "deadline": "2026-12-31T15:59:59+00:00",
+      "listed": true,
+      "direct": true,
+      "url": "https://www.nowcoder.com/jobs/detail/368498"
+    },
+    {
+      "id": "nowcoder:457660",
+      "company": "Garena",
+      "title": "【2027届秋招】User Acquisition广告投放（Free Fire）",
+      "cities": [
+        "上海"
+      ],
+      "duties": "Game Introduction\nFree Fire has remained one of the world’s most downloaded mobile games since 2019 and continues to be loved by players across global markets. Join us to help bring the joy of Free Fire to more players around the world through effective digital advertising and engaging creative campaigns.\n\nJob Description\n1. Support global digital advertising campaigns for Free Fire and contribute to user growth across overseas markets.\n2. Assist in launching, monitoring, and optimizing ad campaigns on major platforms such as Google, TikTok, and Meta/Facebook.\n3. Analyze campaign performance, summarize key insights, communicate findings with relevant teams, and help drive follow-up optimization plans.\n4. Participate in the planning, execution, and review of key creative assets to ensure official content accurately reflects the game quality, brand tone, and campaign message.\n5. Work cross-functionally with regional marketing, creative, operations, and other teams to support overall media buying strategies.\n6. Support daily communication and meetings with international colleagues to improve global execution efficiency.",
+      "requirements": "Required Qualifications\n\n1. Bachelor’s degree or above in Marketing, Business, Advertising, Data Analytics, Communications, or related fields,relevant internship or project experience are plus.\n2. Strong analytical thinking, problem-solving ability, and attention to detail, with the ability to translate data insights into actionable recommendations.\n3. Excellent communication and collaboration skills with proficiency in English.\n4. Strong self-motivation and ownership mindset, with the ability to proactively identify opportunities, drive project progress.\n5. Passion for games,strong interest in FPS is a big plus.\n6. Hands-on experience applying generative AI tools or other AI-powered productivity tools in real work scenarios is preferred",
+      "graduation": "2027届",
+      "degree": "本科",
+      "deadline": "2026-12-30T16:00:00+00:00",
+      "listed": true,
+      "direct": true,
+      "url": "https://www.nowcoder.com/jobs/detail/457660"
     },
     {
       "id": "nowcoder:464149",
@@ -186,36 +186,60 @@
       "url": "https://www.nowcoder.com/jobs/detail/474138"
     },
     {
-      "id": "nowcoder:462452",
-      "company": "厦门银行股份有限公司",
-      "title": "市场营销类",
+      "id": "nowcoder:468560",
+      "company": "奇安信",
+      "title": "青少班-市场营销方向",
       "cities": [
-        "重庆"
+        "北京",
+        "南京",
+        "上海",
+        "杭州",
+        "深圳",
+        "成都",
+        "广州",
+        "济南",
+        "青岛"
       ],
-      "duties": "主要为企业金融、零售金融等业务营销工作提供人才储备。",
-      "requirements": "本科及以上学历，经济、金融类等相关专业优先。\n\n\n\n任职要求\n\n1. 2027届大学本科及以上学历应届毕业生，须于2026年1月至2027年7月期间毕业，并取得毕业证、学位证（境外院校毕业生须取得教育部留学服务中心出具的学历学位认证）。\n\n2. 具有良好的政治素质，诚实守信，遵纪守法，品行端正，无违法违纪违规行为及不良行为记录。\n\n3. 具有正常履行工作职责的身体条件及健康良好的心理素质，具有较强的自我驱动力、责任心、学习能力和良好的团队协作精神。\n\n4. 初次就业，未与其他单位建立劳动关系。\n\n5. 符合厦门银行亲属回避的有关规定。\n\n6. 符合应聘职位的其他资格条件和胜任能力。",
-      "graduation": "2027届",
+      "duties": "【项目介绍】\n“少年大将军”是奇安信面向2027届毕业生重磅打造的精英项目。我们深知，未来的战场，需要的是兼具前瞻视野、实战魄力和领导才华的年轻将才。\n本项目旨在寻找并培养那些对营销充满激情、并渴望创造影响的“少年将军\"，锻造一支年轻、有锐气、敢战善战的营销铁军。\n我们将通过全方位的培养体系，让你在真实的战场上，从运筹帷幄的“参谋”，到独当一面的“先锋\"，最终成长为统揽全局的“将军”，成为公司未来营销体系的核心骨干与领导者。\n【项目亮点】\n1.“将帅\"亲授，言传身教:\n双导师制:一位“业务导师”，带你深入一线战场实战演练。一位“文化导师”，确保你的才华和速度，行驶在正确的轨道上。\n2.全景实战，集中淬炼:\n你将通过全方位的培训及实战练习，全面构建你的营销知识体系，在实战中快速成长。\n3.高速晋升，路径清晰:\n“少年大将军”项目拥有公司内部优先提拔的绿色通道。表现优异者，将在3年可成为一线经理，5年可称为省分区总经理，8年可称为大区总经理，逐步迈向“将军”之路。\n4.精英圈层，同行致远:\n你将与全国最顶尖的同龄人并肩作战，构建宝贵的“少将同侪”人脉网络。",
+      "requirements": "【我们寻找这样的“少年大将军”】\n\n1. 2027届优秀应届生，专业不限。\n2. 对营销有极强的兴趣和好奇心，具备敏锐的市场洞察力。\n3. 勇于挑战，渴望成功，拥有出色的沟通协调能力和团队领导潜质。\n4. 内心强大，能承受压力，享受在战场上解决问题的成就感。",
+      "graduation": "毕业不限",
       "degree": "本科",
-      "deadline": "2027-06-30T16:00:00+00:00",
+      "deadline": "2026-12-20T16:00:00+00:00",
       "listed": true,
       "direct": true,
-      "url": "https://www.nowcoder.com/jobs/detail/462452"
+      "url": "https://www.nowcoder.com/jobs/detail/468560"
     },
     {
-      "id": "nowcoder:419607",
-      "company": "福建南孚市场营销有限公司",
-      "title": "销售管理培训生（全国可调动）",
+      "id": "nowcoder:298750",
+      "company": "拼多多集团-PDD",
+      "title": "仓储管理培训生管培生（广东省）",
       "cities": [
         "上海"
       ],
-      "duties": "你将会：\n1、精准定位市场，驱动销售业绩的持续增长。\n2、利用数字化驱动销售策略，高效推动销售流程优化。\n3、与市场营销团队紧密合作，确保营销策略和销售策略的一致性。\n4、在导师的指导下，参与实际的销售项目，从实战中学习和成长。\n5、积极参与团队协作，通过团队合作实现个人和团队目标的同步提升。\n\n你将成为：\n1、千万生意的核心操盘手\n2、销售创新的敢为人先者\n3、商业谈判的顶尖成交手\n4、业务增长的关键贡献人\n5、城市/区域/大区/赛道的负责人",
-      "requirements": "我们希望你：\n1、善于分析与洞察，思维开阔，具备问题解决能力\n2、具备灵活的地域调动性，抗压，快速学习和适应新的环境\n3、优秀的沟通表达及合作共赢意识\n毕业于2025年12月-2026年7月的26届应届毕业生、海外留学生",
-      "graduation": "2026届",
+      "duties": "1、深入落地一线：从仓储基层一线轮岗起步，逐步深入参与仓储业务各项具体工作，通过实际项目推进来锻炼、提升专业能力和个人经验，从而帮助提升整体仓储运作质量与效率；\n2、仓库日常管理：负责仓库出入库管理、库存管理等，跟进运作时效质量，协调解决运作异常问题，并不断帮助一线员工提升技能； \n3、仓库运营优化：通过运营数据，发现仓库日常运营改善点，并提出解决建议或方案，进行跨部门协调沟通及推动业务执行落地；\n4、项目实施：结合公司业务对仓库功能的拓展性要求，参与相关重点项目实施落地，确保按时、按预算、按质量标准交付项目。",
+      "requirements": "1、2024届毕业生，不限专业； \n2、思维活跃、创造力强，热爱电商物流行业并愿意长期深耕电商物流行业； \n3、具有良好的信息收集和数据统计分析能力；\n4、良好的沟通能力，注重团队协作，吃苦耐劳，内驱力强，坚持高标准交付。",
+      "graduation": "毕业不限",
       "degree": "本科",
-      "deadline": "2027-10-22T02:22:55+00:00",
+      "deadline": "2027-12-31T16:00:00+00:00",
       "listed": true,
       "direct": true,
-      "url": "https://www.nowcoder.com/jobs/detail/419607"
+      "url": "https://www.nowcoder.com/jobs/detail/298750"
+    },
+    {
+      "id": "nowcoder:463190",
+      "company": "途游游戏",
+      "title": "广告投放（深圳）-2027校招",
+      "cities": [
+        "深圳"
+      ],
+      "duties": "负责手游在部分移动新媒体上的效果广告运营，根据产品特点制定推广策略，搭建并优化广告账户，对产品推广效果负责； 负责实时监控广告投放数据； 定期对推广数据进行总结整理，及时汇总分析，提出整改建议。",
+      "requirements": "2027届应届毕业生，本科及以上学历，数学、统计学、计算机系毕业优先考虑； \n能够挖掘产品亮点，分析数据并优化投放效果，对结果负责，有较好的文案能力； \n具备较强的数据分析能力，熟练使用Excel，Word，Powerpoint等office软件 ； \n具备一定的产品经理思维； \n喜欢游戏，愿意加入游戏行业。",
+      "graduation": "毕业不限",
+      "degree": "本科",
+      "deadline": "2027-08-30T16:00:00+00:00",
+      "listed": true,
+      "direct": true,
+      "url": "https://www.nowcoder.com/jobs/detail/463190"
     },
     {
       "id": "nowcoder:475632",
@@ -250,84 +274,68 @@
       "url": "https://www.nowcoder.com/jobs/detail/460704"
     },
     {
-      "id": "nowcoder:470392",
-      "company": "宇通集团",
-      "title": "国内营销管培生(销售方向)",
-      "cities": [
-        "郑州"
-      ],
-      "duties": "【关于宇通集团管培生项目】\n宇通集团自2018年起启动管理培训生招募计划，作为公司战略性人才项目，旨在从国内外顶尖高校选拔高素质、高潜力、契合宇通文化的应届毕业生，倾注集团优质资源量身打造加速培养方案，助力管培生在5-8年的时间成长为集团中高级管理干部。\n\n\n\n【工作职责】\n你将真正走进市场，走近客户，从市场洞察到客户开发，从解决方案到项目落地，完整参与商用车销售全流程，在一线经营实践中快速建立市场与商业思维。\n1. 市场开拓：承接区域或项目经营目标，推动销售收入及利润目标达成；\n2. 客户经营：开发客户与渠道，挖掘客户需求，协同内部团队提供定制化解决方案，持续经营客户关系；\n3. 市场洞察：分析行业趋势、竞争格局及市场机会，制定并推动市场开发策略；",
-      "requirements": "【专业要求】\n\n不限专业（以经济、管理、工科类专业为主）。\n【任职要求】\n\n1. 2027 届本科、硕士应届毕业生；\n\n2. 对市场和客户保持敏锐，愿意深入业务一线，具备较好的沟通表达和人际交往能力；\n\n3. 诚信务实，具备较强的学习能力、沟通影响力、目标感及执行力，敢于挑战，结果导向。",
-      "graduation": "毕业不限",
-      "degree": "本科",
-      "deadline": "2027-09-30T16:00:00+00:00",
-      "listed": true,
-      "direct": true,
-      "url": "https://www.nowcoder.com/jobs/detail/470392"
-    },
-    {
-      "id": "nowcoder:462185",
-      "company": "途游游戏",
-      "title": "广告投放（北京）-2027校招",
+      "id": "nowcoder:462490",
+      "company": "北京发那科机电有限公司",
+      "title": "营销储备工程师-北京",
       "cities": [
         "北京"
       ],
-      "duties": "负责手游在部分移动新媒体上的效果广告运营，根据产品特点制定推广策略，搭建并优化广告账户，对产品推广效果负责； \n负责实时监控广告投放数据； \n定期对推广数据进行总结整理，及时汇总分析，提出整改建议。",
-      "requirements": "2027届应届毕业生，本科及以上学历，数学、统计学、计算机系毕业优先考虑； \n能够挖掘产品亮点，分析数据并优化投放效果，对结果负责，有较好的文案能力； \n具备较强的数据分析能力，熟练使用Excel，Word，Powerpoint等office软件 ； \n具备一定的产品经理思维； \n喜欢游戏，愿意加入游戏行业。",
-      "graduation": "毕业不限",
-      "degree": "本科",
-      "deadline": "2027-08-30T16:00:00+00:00",
+      "duties": "1.掌握客户机床特点及对 CNC 的需求，根据客户需求提供配置建议，并结合公司销售策略，向用户推荐、沟通产品方案； \n2.与客户进行价格、交货期等合同条款的沟通和谈判，最终与客户达成销售意见，签订销售合同； \n3.协助销售担当定期拜访客户，建立可靠的与客户采购、技术部门主管的业务联系，了解担当 MTB 的基本信息与运营动态，制定新客户开拓计\n划，积极开拓市场； \n4.协调公司内部资源，满足客户合理需求，促进客户满意度提升",
+      "requirements": "1.2026、2027年毕业生，本科及以上学历，机械或电气自动化相关专业；\n2.较强的创新意识，抗压能力及自驱力，有数控系统使用经历的优先。",
+      "graduation": "2027届",
+      "degree": "",
+      "deadline": "2026-11-29T16:00:00+00:00",
       "listed": true,
       "direct": true,
-      "url": "https://www.nowcoder.com/jobs/detail/462185"
+      "url": "https://www.nowcoder.com/jobs/detail/462490"
     },
     {
-      "id": "nowcoder:457786",
-      "company": "拼多多集团-PDD",
-      "title": "27校招-商家运营（多语种优势-上海）",
+      "id": "nowcoder:457056",
+      "company": "上海砺星工业",
+      "title": "管培生",
       "cities": [
         "上海"
       ],
-      "duties": "1、参与或主导负责品类商家的引入、管理、考核、服务工作，帮助优质商家快速落地和发展，指导商家合规经营，扩大业务规模，持续优化商品品质，提升消费者购物体验；\n2、分析洞察行业趋势、行业资讯，并进行趋势分析，了解消费者喜好，对产品设计、选款提出开发指引，不断优化产品；\n3、根据业务需要，挖掘品类潜力，扩充品类商家，提升商品丰富度；\n4、参与品牌合作方日常对接，包括商品规划、品牌营销、运营策略等。",
-      "requirements": "1、2027届应届本科及以上学历，有商家运营相关实习经验优先；\n2、有数据及业务分析能力，善于通过数据分析挖掘问题定位原因；\n3、有良好的沟通表达能力跟自驱力，学习能力强，有责任感；\n4、有以下任一种语言优势（包括但不限于：日语、韩语、波兰语、荷兰语、西班牙语、葡萄牙语、法语、德语、意大利语、土耳其语、比利时语），听说读写流利，能直接作为工作生活语言。",
+      "duties": "工作使命Job Mission:\n职位定位：通过为期2-3年的系统化工作实践、高管Mentorship 和关键项目历练，深入理解业务本质，积累跨部门工作网络，并最终成长为公司的中坚管理力量，引领团队实现业务持续增长。\n \n主要工作任务Main Tasks：\n在2-3年的项目期内，你将经历但不限于以下部门的工作实践，全面赋能你的职业生涯：\n● 产品诞生与验证（运营与质量）：\n    ○  深入运营、质量、测试等一线部门，亲手参与产品的诞生与验证全过程，系统构建扎实的产品知识体系，为未来的客户价值传递奠定坚实基础。\n● 客户价值实现（售前与售后）：\n    ○ 售前支持： 协助销售工程师进行客户拜访、技术交流与产品演示，学习并实践如何挖掘客户真实需求，将技术优势转化为客户价值。\n    ○ 售后服务： 参与客户问题解决的全流程，协助完成产品培训与客户回访，深刻理解“客户满意”的真正内涵，培养卓越的服务意识与问题解决能力。\n    ○ 产品市场：协助团队进行细分行业工艺发展、竞品动态与市场趋势的调研分析，将碎片化信息整理为有价值的洞察报告，培养你的宏观视野与战略思维。\n●  商业价值转化（销售）：\n    ○ 在资深销售指导下，学习并参与销售策略的制定与执行，协助维护客户关系并跟进销售机会，直面市场挑战，锤炼你的商业思维与成就动机。\n\n发展路径\n项目结束后，根据公司战略需求及你的个人意愿与特长，我们将为你提供多元化的定岗发展通道：\n-业务线管理方向： 销售管理岗、售前技术管理岗、售后服务管理岗\n-产品线管理方向： 产品管理岗\n-职能支持方向： 人力资源业务合作伙伴(HRBP)、财务业务合作伙伴(FBP)\n\n我们能为你提供\n● 系统的培养体系： 系统化工作实践+高管导师一对一指导 + 关键项目实践\n● 快速的晋升通道： 2-3年定向培养，直达管理岗位，远超同龄人的职业发展速度\n● 有竞争力的薪酬福利： 提供行业领先的薪酬待遇和完善的福利保障\n● 无限的发展平台： 身处高速成长的行业和公司，你的成长边界由你自己决定。",
+      "requirements": "任职要求Job Qualification: \n \n教育背景 Education Background:   \n●  本科及以上学历，专业不限；\n知识&技能Knowledge & Skill:\n● 熟练使用办公软件（Word, Excel, PowerPoint等）。\n● 英文听说读写能力\n职位关键能力Job Key Competence：     \n● 学习能力强： 对新知识、新技能有强烈的求知欲，能快速适应不同工作环境。\n● 解决问题能力： 具备逻辑思维能力，能够分析问题并提出有效的解决方案。\n● 沟通能力： 具备良好的书面和口头表达能力，能够清晰有效地与他人沟通。\n● 团队协作： 乐于与人合作，能够融入团队并为团队贡献力量。\n● 积极主动： 具备高度的责任心和自我驱动力，能够在压力下高效工作。\n● 可塑性强： 愿意接受不同岗位的挑战和轮岗安排。",
+      "graduation": "2027届",
+      "degree": "本科",
+      "deadline": "2027-07-28T16:00:00+00:00",
+      "listed": true,
+      "direct": true,
+      "url": "https://www.nowcoder.com/jobs/detail/457056"
+    },
+    {
+      "id": "nowcoder:457790",
+      "company": "拼多多集团-PDD",
+      "title": "27校招-市场管培生-广告投放",
+      "cities": [
+        "上海"
+      ],
+      "duties": "1、负责App在主流媒体平台的广告投放策略制定工作，对广告投放的规模以及ROI负责； \n2、参与设计广告量化研究和自动化交易系统，探索投放策略的最佳实现方案； \n3、通过数据分析发现投放策略中存在的问题和亏损点，提升广告投放效果； \n4、管理项目进度，根据目标合理分配项目资源，积极主动推动拉齐项目各方进度和预期； \n5、关注市场信息，定期分析行业数据； \n6、与各媒体渠道进行对接合作，探索广告行业先进玩法。",
+      "requirements": "1、2027届应届本科及以上学历，数学、统计学、市场营销、新闻广告、影视传媒、数字媒体等相关专业优先； \n2、较强的数据及业务分析能力，逻辑思维能力强，善于通过数据分析挖掘问题，迭代运营动作；\n3、做事脚踏实地，上进且勤奋，靠谱的行动派，充满正能量； \n4、具有团队精神，良好的跨部门沟通协调能力，自我驱动力强，喜欢有挑战的工作； \n5、成熟地面对压力和挫折，能适应快节奏、多变化、高速成长的互联网行业。",
       "graduation": "2027届",
       "degree": "本科",
       "deadline": "2027-07-31T15:59:59+00:00",
       "listed": true,
       "direct": true,
-      "url": "https://www.nowcoder.com/jobs/detail/457786"
+      "url": "https://www.nowcoder.com/jobs/detail/457790"
     },
     {
-      "id": "nowcoder:460659",
+      "id": "nowcoder:460731",
       "company": "快手",
-      "title": "海外用户运营-阿拉伯语",
+      "title": "海外运营-葡语",
       "cities": [
         "北京"
       ],
-      "duties": "1、负责大R运营相关工作，参与大R用户生命周期运营，包括但不限于通过和本地团队合作进行高价值用户维护，针对用户特征用户价值制定分层策略等，提升大R生命周期价值和大R用户满意度；\n2、深入了解用户需求，参与大R用户调研，分析用户反馈，提供用户洞察，以提升用户付费意愿为主要目标，落地相关解决措施；\n3、参与用户/大R相关活动的全流程执行，包括但不限于活动策划、上线、数据监控及效果复盘。",
-      "requirements": "1、本科及以上学历，有互联网、用户、大R相关实习经历者优先；\n2、阿拉伯语、英语流利，可作为工作语言，听说读写过关；\n3、有一定的用户思维，具备基础数据分析能力；\n4、工作细致耐心，善于合作沟通，踏实靠谱有责任感，自我驱动力强，做事情有始有终。",
+      "duties": "1、达人运营方向、电商运营方向、商家运营方向、市场品牌方向；\n2、与巴西本地达人、商家、代理等stakeholder沟通；\n3、优化所在业务的指标。",
+      "requirements": "1、葡萄牙语水平优秀（C1及以上或成绩优秀），了解巴葡优先；\n2、有一定的数据敏感度。",
       "graduation": "2027届",
       "degree": "",
       "deadline": "2026-12-31T15:59:00+00:00",
       "listed": true,
       "direct": true,
-      "url": "https://www.nowcoder.com/jobs/detail/460659"
-    },
-    {
-      "id": "nowcoder:463614",
-      "company": "杭州盒马网络科技有限公司湖州爱山广场分公司",
-      "title": "市场推广",
-      "cities": [
-        "杭州"
-      ],
-      "duties": "岗位：盒马鲜生App推广专员（BD）\n1.在推广点介绍盒马App，引导用户下载注册并体验首单优惠\n2.解答用户疑问，协助完成下单，保障用户体验\n3.接受外勤，时间9点-20点中间休息几小时\n4.工作时间、地点灵活，各区域均有推广点，可就近安排\n薪资福利\n1.底薪+全勤奖+新客提成+KPI系数+复购提成+住宿补贴+冲单奖励，\n基础薪酬4400+销售提成5000-1W\n日均10单/月工资1W\n2.法定节假日正常休息，6-10月发放高温补贴\n轻松干:7000-15000元 \n好好干:15000-20000元 \n任职要求\n1.18周岁以上，45周岁以内经验不限。\n入职即安排一对一师徒带教，培训机制完善；晋升通道透明：推广专员（BD）→团队主管（BDM）→城市经理（CM）个月一次晋升评审",
-      "requirements": "1.实习生可以长期做\n2.或者社会工",
-      "graduation": "毕业不限",
-      "degree": "",
-      "deadline": "2028-09-26T05:51:32+00:00",
-      "listed": true,
-      "direct": true,
-      "url": "https://www.nowcoder.com/jobs/detail/463614"
+      "url": "https://www.nowcoder.com/jobs/detail/460731"
     }
   ]
 }
